@@ -25,4 +25,3 @@ test_data.head(10)
 prediction = modelFit.predict(test_data)
 
 print(prediction)
-
